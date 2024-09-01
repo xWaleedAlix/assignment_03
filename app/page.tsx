@@ -8,10 +8,10 @@ const page = () => {
       <p>Home page</p>
       <h4>Use these links </h4>
       <h3>
-      http://localhost:3000/Home <br></br>
-      http://localhost:3000/About<br></br>
-      http://localhost:3000/Address<br></br>
-      http://localhost:3000/Contact<br></br>
+      At the end of the url:/Home <br></br>
+      At the end of the url:/About<br></br>
+      At the end of the url:/Address<br></br>
+      At the end of the url:/Contact<br></br>
 
       </h3>
     </div>
